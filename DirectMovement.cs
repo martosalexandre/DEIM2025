@@ -17,7 +17,7 @@ public class DirectMovement : MonoBehaviour
     [SerializeField] private Transform shootPosition;
     [SerializeField] private GameObject projectilePrefab;
 
-    //Comentario doble
+    //Comentario doble ¿y ahora?
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
